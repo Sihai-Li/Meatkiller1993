@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Meatkiller1993
+- 👋 Hi, this is Sihai, currently a postdoc in the University of Chicago
 - 👀 I’m interested in cars, travel and all kinds of fun
-- 🌱 I’m currently learning python
+- 🌱 I’m currently in OMSCS program offered by Georgia Tech
 - 💞️ I’m looking to collaborate on all kinds of people
 
 <!---
